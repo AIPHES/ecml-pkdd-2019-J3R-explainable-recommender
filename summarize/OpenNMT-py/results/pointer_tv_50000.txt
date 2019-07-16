@@ -1,0 +1,17 @@
+Preparing documents...
+Running ROUGE...
+/home/avinesh/anaconda2/bin/perl /home/avinesh/.files2rouge/ROUGE-1.5.5.pl -e /home/avinesh/.files2rouge/data -c 95 -r 1000 -n 2 -a -m /tmp/tmpeui0qm82/rouge_conf.xml
+---------------------------------------------
+1 ROUGE-1 Average_R: 0.09445 (95%-conf.int. 0.09186 - 0.09720)
+1 ROUGE-1 Average_P: 0.14118 (95%-conf.int. 0.13765 - 0.14484)
+1 ROUGE-1 Average_F: 0.10738 (95%-conf.int. 0.10455 - 0.11042)
+---------------------------------------------
+1 ROUGE-2 Average_R: 0.03442 (95%-conf.int. 0.03233 - 0.03654)
+1 ROUGE-2 Average_P: 0.05238 (95%-conf.int. 0.04965 - 0.05527)
+1 ROUGE-2 Average_F: 0.03887 (95%-conf.int. 0.03671 - 0.04114)
+---------------------------------------------
+1 ROUGE-L Average_R: 0.09111 (95%-conf.int. 0.08852 - 0.09379)
+1 ROUGE-L Average_P: 0.13577 (95%-conf.int. 0.13229 - 0.13948)
+1 ROUGE-L Average_F: 0.10345 (95%-conf.int. 0.10069 - 0.10632)
+
+Elapsed time: 1152.507 seconds
